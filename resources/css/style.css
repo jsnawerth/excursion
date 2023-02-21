@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: normal;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+p{
+    font-size: 21px;
+    color: gray;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+img{
+    margin: 10px;
+}
+.landscape{
+    max-width: 100%;
+}
+footer{
+    text-align: right;
+    align-self: flex-end;
+}
