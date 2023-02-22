@@ -22,8 +22,8 @@ header {
 }
 
 .logo {
-    flex-basis: 50%;
     height: 80px;
+    width: auto;
 }
 
 nav {
