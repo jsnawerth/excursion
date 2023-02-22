@@ -22,10 +22,12 @@ header {
 }
 
 .logo {
-    height: 80px;
-    width: auto;
+    flex-basis: 50%;
 }
-
+.logo img{
+    width: auto;
+    height: 75px;
+}
 nav {
     flex-basis: 50%;
     text-align: right;
